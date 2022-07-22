@@ -1,6 +1,6 @@
+👨‍💻💻🎸<br />
 Hi, everyone!!!
 
-👨‍💻💻🎸<br />
 My name's <b>Alexandre Nascimento</b>, I'm a <b>Software Developer / Fullstack Developer</b> with 15+ years working in small, medium and big companies.
 I have a great experience developing Java, .Net, Javascript and React applications.
 
