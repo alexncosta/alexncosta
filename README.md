@@ -1,4 +1,9 @@
-👨‍💻💻🎸<br />
+<style>
+  .title {
+    font-size: 22px;
+  }
+</style>
+<span class="title">👨‍💻</span>💻🎸<br />
 Hi, everyone!!!
 
 My name's <b>Alexandre Nascimento</b>, I'm a <b>Software Developer / Fullstack Developer</b> with 15+ years working in small, medium and big companies.
