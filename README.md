@@ -1,6 +1,6 @@
 ### Hi everyone 👋👨‍💻💻🎸
 
-I’m a Husband, Father, [Fullstack Developer](https://alexncosta.com) living in Vila Velha. I passionate for teaching and programming and I hope that one of my Youtube videos or courses helps you.
+I’m a Husband, Father of three (two girls and one boy), [Fullstack Developer](https://alexncosta.com) living in Vila Velha. I passionate for teaching and programming and I hope that one of my Youtube videos or courses helps you.
 
 ![Profile Header](./profile_alexncosta.png)
 
