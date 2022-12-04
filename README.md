@@ -6,7 +6,7 @@ I’m a Husband, Father of three (two girls and one boy), [Fullstack Developer](
 
 ### 🤝 Connect with me:
 
-- Website: https://www.alexncosta.dev
+- Website: https://alexncosta.com
 - YouTube: https://www.youtube.com/@educacaovirtualenglishofc
 - LinkedIn: https://www.linkedin.com/in/alexandre-nascimento-ev/?locale=en_US
 
